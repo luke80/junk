@@ -1,0 +1,16 @@
+# Minecraft Land Generator 1.7.5 - Launch info: Java: Java HotSpot(TM) Client VM 1.7.0_21 OS: Windows 7 6.1 x86 windows
+# JVM:  JAR: MinecraftLandGenerator.jar ARGS:
+# [Server thread/INFO]: Starting minecraft server version 1.7.4
+# Started: Thursday, December 19, 2013 at 1:47 PM, Mountain Standard Time
+##Size: X1000Z1000
+# Seed: 666
+# Spawn: [0,64,0]
+[-304,64,-304]
+[-304,64,0]
+[-304,64,304]
+[0,64,-304]
+[0,64,0]
+[0,64,304]
+[304,64,-304]
+[304,64,0]
+[304,64,304]
